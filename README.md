@@ -32,7 +32,7 @@ Pi# signal_nomad
 ### B. Running the app on the Android Studio Emulator
   1. Press the green "run" arrow at the top of the Android Studio Screen and select "Create New Virtual Device".
   2. Press next and select "download" on Android P. Install with default settings. Once installed a virtual machine will appear on your screen.
-  3. In order to run the app fully you'll need to enable location services. Exit the app, on your phone navigate to settings->apps->signal nomad and activate location services.
+  3. In order to run the app fully you'll need to enable location services. Exit the app, on the emulator navigate to settings->apps->signal nomad and activate location services.
   4. Reopen the app, you should see a screen that resembles Google Maps
   5. Press the "Drop Pin" button to display a marker at the default emulator California location along with the default emulator network type: 4G.
   6. You can select a marker which allows a navigation option at the bottom right, that will open navigation in Google Maps.
