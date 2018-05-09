@@ -12,7 +12,7 @@ The database uses the basic functionality of the Room Persistence library, the G
 
 Retrieval of location services is well documented and was implemented in line with the requirements of the Android API. 
 
-My app displays Network Type as opposed to Signal Strength (as you would see measured by "bars" on your phone") the latter proved to be very difficult to extract from the Android API for me. From research it appears that others have had similar difficulty retrieving this data. The goal of the app is to allow an individual to track the locations that they had data service. Using Network Type is at least as good for this purpose.
+My app displays Network Type as opposed to Signal Strength (as you would see measured by "bars" on your phone) the latter proved to be very difficult to extract from the Android API for me. From research it appears that others have had similar difficulty retrieving this data. The goal of the app is to allow an individual to track the locations that they had data service. Using Network Type is at least as good for this purpose.
 
 The App combines all components in a main activity allowing the user to pull down location and network on a button click, subsequently displaying the information in the form of a map marker. The Google Maps API by default allows for navigation to markers.
 
