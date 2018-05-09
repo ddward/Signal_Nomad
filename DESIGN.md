@@ -6,7 +6,7 @@ The project has 4 distinct components/functionalities:
 3. Retrieval of location data
 4. Retrieval of network information
 
-Google makes their Maps API quite intuitive and implementation of the UI is based on stock code from Google with some basic button functionality overplayed.
+Google has made their Maps API intuitive and implementation of the UI is based on stock code from Google with some basic button functionality overplayed.
 
 The database uses the basic functionality of the Room Persistence Library, a Google recommended abstraction layer above SQLite. Code in my app was adapted from the Room tutorial here: https://developer.android.com/training/data-storage/room/
 
