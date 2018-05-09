@@ -11,8 +11,8 @@ To Run:
 4. Unzip the downloaded file, you should now have an unziped folder called "signal_nomad-master"
 5. Open Android Studio and select File->Open then select the signal_nomad-master folder from the location that you chose to download the files to.
 6. Click open, the app may take a moment to open. 
-..* a. If you receive an error that looks like "Failed to find target with hash string..." Simply click the adjacent "Install missing       platform(s) and sync project" to install the needed files.
-..* b. If you receive an error that looks like "Failed to find Buid Tools..." Click the adjacent "Install Build Tools..." link to install the needed files and sync the project
+--* a. If you receive an error that looks like "Failed to find target with hash string..." Simply click the adjacent "Install missing       platform(s) and sync project" to install the needed files.
+--* b. If you receive an error that looks like "Failed to find Buid Tools..." Click the adjacent "Install Build Tools..." link to install the needed files and sync the project
 7. If you have an Android phone avalable, follow the steps in secion A below. If not, follow the steps in section B.
 
 ### A. Running the app on on an Android Phone
