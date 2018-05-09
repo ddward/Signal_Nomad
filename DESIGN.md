@@ -16,4 +16,4 @@ My app displays Network Type as opposed to Signal Strength (as you would see mea
 
 The app combines all components in a main activity allowing the user to pull down location and network on a button click, subsequently displaying the information in the form of a map marker. The Google Maps API by default allows for navigation to markers.
 
-Features I plan to add in the future are: 1. Ability to delete individual markers, 2. Ability to input markers from the GUI given latitude, longitude, and network type. 3. Ability to copy latitude, longitude, and network type from a marker.
+Features I plan to add in the future are: 1. the ability to delete individual markers, 2. the ability to input markers from the GUI given latitude, longitude, and network type, 3. the ability to copy latitude, longitude, and network type from a marker.
