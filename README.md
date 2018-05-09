@@ -1,4 +1,4 @@
-Pi# signal_nomad
+# signal_nomad
 ##### CS50 Final Project
 ##### David Ward
 ##### Spring 2018
