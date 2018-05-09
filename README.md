@@ -13,7 +13,7 @@
 6. Click open, the app may take a moment to open.  
   * If you receive an error that looks like "Failed to find target with hash string..." Simply click the adjacent "Install missing platform(s) and sync project" to install the needed files.
   * If you receive an error that looks like "Failed to find Build Tools..." Click the adjacent "Install Build Tools..." link to install the needed files and sync the project
-7. In order for the app to work properly, you'll need to have a Google Maps API key. If you already have a Google account you can get an API key by following this link: https://console.developers.google.com/, create a new project, navigate to "Credentials using the sidebar, select "Create credentials" -> API key. Copy this API key. 
+7. In order for the app to work properly, you'll need to have a Google Maps API key. If you already have a Google account you can get an API key by following this link: https://console.developers.google.com/, create a new project, navigate to "Credentials using the sidebar, select "Create credentials" -> API key. Copy this API key. If you don't have Google account, follow the same link and create an account.
 8. In Android Studio, in the file viewer on the left, navigate to the following file: app/res/values/google_maps_api.xml. Set the value of the "google_maps_key" variable to the API key you generated in step 7.
 9. If you have an Android phone available, follow the steps in section A below (suggested). If not, follow the steps in section B.
 
