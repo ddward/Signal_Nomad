@@ -4,7 +4,7 @@ The project has 4 distinct components/functionalities:
 1. A Google Maps based UI
 2. A database implementation
 3. Retrieval of location data
-4. Retrieval of Network Information
+4. Retrieval of network information
 
 Google makes their Maps API quite intuitive and implementation of the UI is based on stock code from Google with some basic button functionality overplayed.
 
