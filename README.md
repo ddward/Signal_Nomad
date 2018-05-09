@@ -19,7 +19,6 @@
 
 ### A. Running the app on an Android Phone
   1. Enable USB debugging. If unsure how to do this follow the steps here: https://www.howtogeek.com/129728/how-to-access-the-developer-options-menu-and-enable-usb-debugging-on-android-4.2/
-
   2. Plug your phone in to a USB port
   3. Press the green "run" arrow at the top of the Android Studio screen and select your device from the pop-up screen.
   4. After a moment the app should open on your screen.
